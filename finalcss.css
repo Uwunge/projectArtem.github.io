@@ -1,0 +1,97 @@
+ul {
+	list-style-type: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+* {
+	padding: 0;
+	margin: 0;
+	font-family: Arial;
+	color: #FFFFFF;
+}
+
+main {
+
+	margin: 0 auto;
+	width: 1200px;
+	
+	background-color: #000000;
+}
+
+.spider {
+	justify-content: space-around;
+	align-items: center;
+}
+
+body {
+	background-color: #000000;
+}
+
+.actors {
+display: flex;
+flex-direction: column;
+align-items: flex-end;
+}
+
+.secnd {
+	display: flex;
+	justify-content: space-between;
+}
+
+.logo {
+	display: flex;
+	justify-content: center;
+}
+
+
+
+.form {
+
+	width: 600px;
+	display: flex;
+	justify-content: center;
+	margin: 0 auto;
+	margin-top: 0px;
+}
+
+form {
+
+	width: 450px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background-color: #000000;
+
+}
+
+.frst {
+		display: flex;
+	justify-content: center;
+}
+
+.text {
+	display: flex;
+	justify-content: center;
+}
+
+.blac {
+	color: #000000;
+}
+
+.friend {
+	color: #000000;
+}
+
+.politic {
+
+	justify-content: right;
+}
+
+.end {
+		display: flex;
+	justify-content: center;
+}
